@@ -6,9 +6,9 @@
 	/*
 	Plugin Name: Region Halland Manage Lists Region Halland
 	Description: Back-end-plugin som hanterar värden i listor
-	Version: 1.0.0
+	Version: 1.1.0
 	Author: Roland Hydén
-	License: MIT
+	License: GPL-3.0
 	Text Domain: regionhalland
 	*/
 
