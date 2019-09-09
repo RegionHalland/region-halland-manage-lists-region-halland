@@ -61,6 +61,9 @@ OBS! Justera så att du hämtar aktuell version.
 
 ## Versionhistorik
 
+### 1.1.1
+- Justerat namn på pluginen i composer
+
 ### 1.1.0
 - Lagt till information om licensmodell
 - Bifogat fil med licensmodell
