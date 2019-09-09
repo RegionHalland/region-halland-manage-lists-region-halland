@@ -1,0 +1,13 @@
+{
+    "name": "regionhalland/region-halland-manage-links-region-halland",
+    "description": "Hantera olika typer av listor",
+    "type": "wordpress-plugin",
+    "license": "GPL-3.0",
+    "authors": [
+        {
+            "name": "Roland Hydén",
+            "email": "Roland.Hyden@Regionhalland.se"
+        }
+    ],
+    "require": {}
+}
